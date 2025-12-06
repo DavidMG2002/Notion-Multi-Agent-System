@@ -1,6 +1,3 @@
-# Notion-Multi-Agent-System
-Sistema multiagente de notion con IA
-
 # Sistema Multi-Agente con Notion
 
 Sistema inteligente de gestión de contenido para Notion con agentes especializados, análisis con IA y interfaz web interactiva.
